@@ -54,15 +54,31 @@ body {
  
 
  button.bg-warning {
-  margin-left: 89px;
+     margin-left: 89px;
+    margin-bottom: 2px;
 }
 input.d-block {   
   margin-top: 2px;
 }
 
 
-  .container {
-    margin: auto;
-    width: 200px;
+.container {
+    width: 319px;
+    height: 200px;
+    background-color: chartreuse;
 }
+.proBar{
+  width: 87%;
+  margin-top: 2%;
+
+}
+.container2{
+  margin-left: 20px;
+    width: 406px;
+    background-color: pink;
+    height: 275px;
+}
+
+
+
 
